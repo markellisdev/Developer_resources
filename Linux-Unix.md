@@ -21,6 +21,6 @@
 
     `open <filename.extension> -a Google\ Chrome` Replace <filename.extension> with the file you wish to open
 
-    This tells your machine to open the file with application Google Chrome. `-a` denotes application
+    This tells your machine to open the file with application Google Chrome. `-a` denotes "with application"
 
     I combined the information found in this thread, https://superuser.com/questions/85151/how-to-open-a-browser-from-terminal
