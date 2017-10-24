@@ -16,3 +16,11 @@
         `grep "<enter_any_string_here>" -R .
     
     This solution was shown to me by Jason Meridth https://github.com/jmeridthgst
+
+3. Open file with a specific application from the command line in OS X
+
+    `open <filename.extension> -a Google\ Chrome` Replace <filename.extension> with the file you wish to open
+
+    This tells your machine to open the file with application Google Chrome. `-a` denotes "with application"
+
+    I combined the information found in this thread, https://superuser.com/questions/85151/how-to-open-a-browser-from-terminal
